@@ -1,0 +1,11 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Question 5') {
+            steps {
+                echo 'Executing..........'
+            }
+        }
+    }
+}
