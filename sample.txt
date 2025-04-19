@@ -1,2 +1,1 @@
-sample text 
-edited
+this will create conflict
